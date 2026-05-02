@@ -86,11 +86,11 @@ Threshold berbeda tiap area
 Output:
 - Histogram intensitas 
 
-<img src="output_gambar/out_1_histogram.png" width="450">
+<img src="out_1_histogram.png" width="450">
 
 - Hasil perbandingan threshold
   
-<img src="output_gambar/out_1_thresholding.png" width="450">
+<img src="out_1_thresholding.png" width="450">
 
 ### Modul 2: Region Growing
 
@@ -118,7 +118,7 @@ Ciri utama:
 Output:
 - Eksperimen beberapa seed 
 
-<img src="output_gambar/out_2_region_growing.png" width="450" >
+<img src="out_2_region_growing.png" width="450" >
 
 
 ### Modul 3: Deteksi Tepi (Edge Detection)
@@ -175,7 +175,7 @@ Karakteristik:
 
 Output:
 - Perbandingan K=2,3,4
-<img src="output_gambar/out_4_kmeans.png" width="450">
+<img src="out_4_kmeans.png" width="450">
 
 
 ### Modul 5: Watershed Segmentation
@@ -195,7 +195,7 @@ Kelebihan:
 Output:
 - Hasil watershed
 
-<img src="output_gambar/out_5_watershed.png" width="450">
+<img src="out_5_watershed.png" width="450">
 
 ---
 
@@ -230,7 +230,7 @@ Metrik yang digunakan:
 
 Output:
 - Visualisasi evaluasi
-<img src="output_gambar/out_6_evaluasi.png" width="450">
+<img src="out_6_evaluasi.png" width="450">
 
 - Nilai IoU=0.910, Dice=0.953
 
